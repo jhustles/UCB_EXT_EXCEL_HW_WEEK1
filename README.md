@@ -2,7 +2,7 @@
 
 ![ks_logo](image/../images/kickstarter_logo.png)
 
-## *Data Source*: Kaggle.com
+### *Data Source*: Kaggle.com
 
 ## Background Information
 
@@ -34,8 +34,13 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ## Output
 ![notes_ss](image/../images/notes_section.jpg)
+
 ![pivot_1](image/../images/p1_parent_categories.jpg)
+
 ![pivot_2](image/../images/p2_subcategories.jpg)
+
+![pivot_3](image/../images/p3_annual_result.jpg)
+
 
 
 ## Analysis & Findings:
