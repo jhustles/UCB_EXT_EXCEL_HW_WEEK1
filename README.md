@@ -55,3 +55,11 @@ Given the Kickstarter campaigns data, I found the following:
 ## Next Steps:
 - Possible other analysis we could do is doing an analysis by country, instead of category, over months of the year to see if which countries are most impacted by seasonality during the year, if given the data.
 - Also, if we had more data, we can create heatmap based where the most money is fundraised by location (not country) to better understand where most of the fundraising is coming from.
+
+## Author
+
+* **Johneson Giang** - *Individual Project* - [Github](https://github.com/jhustles)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
