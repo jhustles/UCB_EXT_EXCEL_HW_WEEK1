@@ -33,15 +33,17 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 - Made a Summary tab view of Kickstarter Project Goals into buckets of 5k difference 
 
 ## Output
-![notes_ss](image/../images/notes_section.jpg)
+![Notes](image/../images/notes_section.jpg)
 
-![pivot_1](image/../images/p1_parent_categories.jpg)
+![Source_Data](image/../images/source_data.jpg)
 
-![pivot_2](image/../images/p2_subcategories.jpg)
+![Pivot_1](image/../images/p1_parent_categories.jpg)
 
-![pivot_3](image/../images/p3_annual_results.jpg)
+![Pivot_2](image/../images/p2_subcategories.jpg)
 
-![pivot_4](image/../images/summary.jpg)
+![Pivot_3](image/../images/p3_annual_results.jpg)
+
+![Pivot_4](image/../images/summary.jpg)
 
 ## Analysis & Findings:
 Given the Kickstarter campaigns data, I found the following:
