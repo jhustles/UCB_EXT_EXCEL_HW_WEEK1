@@ -41,7 +41,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ![pivot_3](image/../images/p3_annual_results.jpg)
 
-
+![pivot_4](image/../images/summary.jpg)
 
 ## Analysis & Findings:
 Given the Kickstarter campaigns data, I found the following:
