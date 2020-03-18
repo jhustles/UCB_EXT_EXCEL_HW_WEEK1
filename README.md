@@ -1,4 +1,4 @@
-# Kickstarter Data Analysis Using Excel from MS Office 365
+# Kickstarter Data Analysis Using Excel From MS Office 365
 
 ![ks_logo](image/../images/kickstarter_logo.png)
 
